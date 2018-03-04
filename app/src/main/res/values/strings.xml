@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AgRoam</string>
+    <string name="action_settings">Settings</string>
+    <string name="full_app_name">AggressiveRoaming</string>
+</resources>
